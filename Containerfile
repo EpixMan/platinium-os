@@ -4,7 +4,7 @@ COPY build_files /
 
 # Base Image
 #FROM ghcr.io/ublue-os/bluefin:stable
-FROM ghcr.io/ublue-os/aurora-dx:stable-daily
+FROM ghcr.io/ublue-os/aurora:stable
 
 ## Other possible base images include:
 # FROM ghcr.io/ublue-os/bazzite:latest
